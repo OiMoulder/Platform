@@ -1,1 +1,4 @@
-# Platform
+# Platform  
+
+npm install
+npm start
